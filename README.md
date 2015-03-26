@@ -1,2 +1,4 @@
 # HPM_DB
-Fonctions PHP pour le serveur WAMP. A mettre dans le répertoire www du dossier d'installation WAMP
+Fonctions PHP pour le serveur WAMP
+Créer un dossier 'hpm' dans le dossier 'www' du répertoire d'installation WAMP
+Y déposer les fichiers *.php
